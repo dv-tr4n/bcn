@@ -27,7 +27,7 @@ En revenant de la Casa Batllo, vous pouvez faire un détour soit sur Consell de 
 
 Gotic, c'est le nom du plus ancien quartier de Barcelone, le centre historique, avec ses rues étroites médiévales, qui contrastent avec les rues à angle droit que vous avez vues autour de Passeig de Gracia. 
 
-En repassant par la Plaçà de Catalunya, vous pouvez prendre l'Avinguda del Portal de l'Angel (https://goo.gl/maps/EDxUyskvT7ZMK6GRA )pour vous diriger vers le Palais de la Musique catalane (https://goo.gl/maps/VJTzGdizW8UfgWhG9 ), qui a aussi une architecture assez unique. Je vous suggère de passer par là pour éviter la Rambla, où il y a souvent beaucoup de monde et des attrape-touristes. Vous passerez normalement par la Carrer de Comtal, qui est un bon exemple d'une rue typique du quartier Gotic.
+En repassant par la Plaçà de Catalunya, vous pouvez prendre l'Avinguda del Portal de l'Angel (https://goo.gl/maps/EDxUyskvT7ZMK6GRA ) pour vous diriger vers le Palais de la Musique catalane (https://goo.gl/maps/VJTzGdizW8UfgWhG9 ), qui a aussi une architecture assez unique. Je vous suggère de passer par là pour éviter la Rambla, où il y a souvent beaucoup de monde et des attrape-touristes. Vous passerez normalement par la Carrer de Comtal, qui est un bon exemple d'une rue typique du quartier Gotic.
 
 Depuis le Palais de la Musique Catalane, vous pouvez repartir dans les rues jusqu'à la Cathédrale de Barcelone (https://goo.gl/maps/yUPx4Jfpzua7r9M48) Ce n'est pas la Sagrada Familia (on en reparlera), mais ça reste un batiment impressionant, en style gothique. A quelques mètres de là, vous pourrez passer par la plaçà Sant Felip Neri (https://goo.gl/maps/YsDLmDj1eWY9QTwD9), qui peut être un arrêt un peu calme au milieu de toute l'agitation du Gotic. 
 
@@ -56,11 +56,13 @@ Quand vous quitterez Montjuic en prenant le funiculaire vers Parallel, vous avez
 * prendre la ligne 3 (verte) vers Fontana, dans le quartier de Gracia (direction Trinitat Nova)
 * prendre la ligne 2 (mauve) vers la Sagrada Familia (direction Badalona Pompeu Fabra)
 
+J'ai mis les deux options parce que j'imagine que vous devrez choisir entre les deux pour des raisons de temps. 
+
 #### Gracia
 
 Un peu à l'écart de la ville, Gracia c'est un peu le quartier tendance depuis quelques années. Les rues sont plus étroites, moins de voitures, beaucoup de commerces accessibles et quelques chouettes terrasses, c'est un quartier qui est un peu atypique et permet de voir un Barcelone un peu moins connu.
 
-Depuis Parallel, prendre la L3 (verte) jusqu'à Fontana. De là, emprunter les rues jusqu'à la Plaça del Sol (https://goo.gl/maps/K3AHwudhykyZHXTU7), la Plaça de la Revolucio (https://goo.gl/maps/aKQ5YbHRGHz1aQhL8) ou la Plaça de la Vila de Gracia (https://goo.gl/maps/56HLL7FDRhyCDoMX7) avec sa tour.
+Depuis Parallel, prendre la L3 (verte) jusqu'à Fontana. De là, emprunter les rues jusqu'à la Plaça del Sol (https://goo.gl/maps/K3AHwudhykyZHXTU7), la Plaça de la Revolucio (https://goo.gl/maps/aKQ5YbHRGHz1aQhL8) ou la Plaça de la Vila de Gracia (https://goo.gl/maps/56HLL7FDRhyCDoMX7) avec sa tour. Pensez à profiter des ruelles étroites et du manque de voitures. 
 
 #### La Sagrada Familia
 
